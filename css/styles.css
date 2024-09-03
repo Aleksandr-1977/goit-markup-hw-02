@@ -1,27 +1,35 @@
-/* link-main */
-.link-main{font-family: "Raleway", sans-serif;
+
+/*--Body--*/
+.all-page{font-family: "Roboto", sans-serif;
+    width: 1440px;
+    height: 3300px;
+background: #fff;}
+/*--End Body--*/
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+/* Logo */
+.logo{font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
-/* line-height: 21px; */
-    line-height: 117%;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-    color: #4d5ae5;}
+color: #4d5ae5;
+}
+    
 
-/* link-submain */
-.link-submain{font-family: "Roboto", sans-serif;
-        font-weight: 500;
+/* link-main */
+.link-main{font-family: "Roboto", sans-serif;
+    color: #2e2f42;
+    font-weight: 500;
         font-size: 16px;
-            /* line-height: 24px; */
-        line-height: 150%;
-        letter-spacing: 0.02em;
-        color: #2e2f42;}
-
+        }
+         
+    
 /* link-contact */
 .link-contact{font-family: "Roboto", sans-serif;
             font-weight: 400;
-            font-size: 16px;
-        /* line-height: 24px; */
-            line-height: 150%;
-            letter-spacing: 0.02em;
-            color: #434455;}
+            font-size: 16px;}
+        
