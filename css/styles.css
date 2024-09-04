@@ -1,29 +1,43 @@
-
 /*------------Body-------------*/
-body{font-family: "Roboto", sans-serif;
-background-color: #fff;}
-ul,ol {list-style-type: none;}
-a {text-decoration: none; color: inherit;}
-button{cursor: pointer;}
-/*----------End Body------------*/
-/*-----------Logo------------ */
-.logo{
+body {
+  font-family: "Roboto", sans-serif;
+  color: #2e2f42;
+  background-color: #ffffff;
+}
+ul,
+ol {
+  list-style-type: none;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
+button {
+  cursor: pointer;
+}
+/*----------/Body------------*/
+/*-----------Logo------------*/
+.logo {
+font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
-color: #4d5ae5;
+    line-height: 1.16667;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #2e2f42;}
+.text-logo{color: #4d5ae5;}
+/*----------/Logo------------*/
+/*----------link-main------- */
+.menu {
+  font-family: "Roboto", sans-serif;
+  color: #2e2f42;
+  font-weight: 500;
+  font-size: 16px;
 }
-/*----------End Logo------------*/
 
-/* link-main */
-.link-main{font-family: "Roboto", sans-serif;
-    color: #2e2f42;
-    font-weight: 500;
-        font-size: 16px;
-        }
-         
-    
 /* link-contact */
-.link-contact{font-family: "Roboto", sans-serif;
-            font-weight: 400;
-            font-size: 16px;}
-        
+.link-contact {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+}
