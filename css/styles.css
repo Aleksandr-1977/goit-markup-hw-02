@@ -3,15 +3,16 @@
 body{font-family: "Roboto", sans-serif;
 background-color: #fff;}
 ul,ol {list-style-type: none;}
-a {text-decoration: none;}
+a {text-decoration: none; color: inherit;}
+button{cursor: pointer;}
 /*----------End Body------------*/
 /*-----------Logo------------ */
-.logo{font-family: "Raleway", sans-serif;
+.logo{
     font-weight: 700;
     font-size: 18px;
 color: #4d5ae5;
 }
-    
+/*----------End Logo------------*/
 
 /* link-main */
 .link-main{font-family: "Roboto", sans-serif;
