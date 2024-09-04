@@ -1,3 +1,3 @@
 # goit-markup-hw-02
-homework-2
+\поменять коды шрифтов (roи oto400,500,700 and raleway700)
 подключать style.css самым последним линком в head 
