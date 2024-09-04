@@ -1,18 +1,11 @@
 
-/*--Body--*/
-.all-page{font-family: "Roboto", sans-serif;
-    width: 1440px;
-    height: 3300px;
-background: #fff;}
-/*--End Body--*/
-ul {
-    list-style-type: none;
-}
-
-a {
-    text-decoration: none;
-}
-/* Logo */
+/*------------Body-------------*/
+body{font-family: "Roboto", sans-serif;
+background-color: #fff;}
+ul,ol {list-style-type: none;}
+a {text-decoration: none;}
+/*----------End Body------------*/
+/*-----------Logo------------ */
 .logo{font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
