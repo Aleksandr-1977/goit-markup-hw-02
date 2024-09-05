@@ -87,13 +87,13 @@ button {
 }
 /*-----------/Section1------------------------------------------*/
 /*------------Section2------------------------------------------*/
-.title-page-section2{font-family: "Roboto", sans-serif;
+.title-page-section-second{font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;}
-.text-section2{font-family: "Roboto", sans-serif;
+.text-section-second{font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -101,7 +101,7 @@ button {
   }
 /*----------/Section2--------------------------------------------*/ 
 /*-----------Section3---------------------------------------------*/ 
-.page-section3{background: #f4f4fd;}
+.page-section-third{background-color: #FFFFF}
 .text-our-team{font-family: "Roboto", sans-serif;
   font-weight: 700;
   font-size: 36px;
@@ -109,18 +109,17 @@ button {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;}
- .title-page-section3{font-family: "Roboto", sans-serif;
+ .title-page-section-third{font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
     color: #2e2f42;} 
-.text-section3{font-family: "Roboto", sans-serif;
+.text-section-third{font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  
   }
 /*-----------/Section3--------------------------------------------*/
 /*------------Section4--------------------------------------------*/
@@ -131,14 +130,14 @@ button {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;}
-  .text-title-section4{font-family: "Roboto", sans-serif;
+  .text-title-section-fourth{font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
     text-transform: capitalize}
-    .text-section4{font-family: "Roboto", sans-serif;
+    .text-section-fourth{font-family: "Roboto", sans-serif;
       font-weight: 400;
       font-size: 16px;
       line-height: 1.5;
