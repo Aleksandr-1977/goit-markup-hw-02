@@ -1,4 +1,4 @@
-/*------------Body-------------*/
+/*------------Body------------------------------------------------*/
 body {
   font-family: 'Roboto', sans-serif;
   color: #434455;
@@ -15,13 +15,13 @@ a {
 button {
   cursor: pointer;
 }
-/*----------/Body------------*/
-/*-----------Logo------------*/
+/*----------/Body------------------------------------------------*/
+/*-----------Logo------------------------------------------------*/
 .logo {
   font-family: 'Raleway', sans-serif;
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.16667;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
@@ -29,8 +29,8 @@ button {
 .text-logo {
   color: #2e2f42;
 }
-/*----------/Logo------------*/
-/*----------Header---------- */
+/*----------/Logo------------------------------------------------*/
+/*----------Header---------------------------------------------- */
 .menu {
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
@@ -59,8 +59,9 @@ button {
 .link-contact:hover {
   color: #404bbf;
 }
-/*-----------/Header---------*/
-/*-----------Main------------*/
+/*-----------/Header--------------------------------------------*/
+/*-----------Main-----------------------------------------------*/
+/*-----------Section1-------------------------------------------*/
 .page-section1 {
   background: #2e2f42;
 }
@@ -68,7 +69,7 @@ button {
   font-family: 'Roboto', sans-serif;
   font-weight: 700;
   font-size: 56px;
-  line-height: 1.07143;
+  line-height: 1.07;
   letter-spacing: 0.02em;
   text-align: center;
   color: #ffffff;
@@ -85,7 +86,84 @@ button {
 .button-order-service:hover {
   background: #404bbf;
 }
-/*----------/Main------------*/
-/*-----------Footer----------*/
-
-/*-----------Foooter---------*/
+/*-----------/Section1------------------------------------------*/
+/*------------Section2------------------------------------------*/
+.description{display: none;}
+.title-page-section2{font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;}
+.text-section2{font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;}
+/*----------/Section2--------------------------------------------*/ 
+/*-----------Section3---------------------------------------------*/ 
+.page-section3{background: #f4f4fd;}
+.text-our-team{font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;}
+ .title-page-section3{font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+    color: #2e2f42;} 
+.text-section3{font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  
+  color: #434455;}
+/*-----------/Section3--------------------------------------------*/
+/*------------Section4--------------------------------------------*/
+.text-our-portfolio{font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;}
+  .text-title-section4{font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;}
+    .text-section4{font-family: "Roboto", sans-serif;
+      font-weight: 400;
+      font-size: 16px;
+      line-height: 1.5;
+      letter-spacing: 0.02em;
+      color: #434455;}
+/*-----------/Section4-------------------------------------------*/
+/*----------/Main------------------------------------------------*/
+/*-----------Footer----------------------------------------------*/
+.page-footer{background: #2e2f42;}
+.logo-footer {
+  font-family: "Raleway", sans-serif;
+font-weight: 700;
+font-size: 18px;
+line-height: 1.17;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #4d5ae5;
+}
+.text-logo-footer {
+  color: #f4f4fd;}
+.text-footer{font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;}
+/*-----------Foooter---------------------------------------------*/
