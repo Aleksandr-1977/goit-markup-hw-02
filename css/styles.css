@@ -39,14 +39,10 @@ button {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.menu-studio:hover, .menu-portfolio:hover,
-.menu-contact:hover {
+.menu-nav-list:hover, .menu-nav-list:focus {
   color: #404bbf;
 }
-.menu-studio:focus, .menu-portfolio:focus,
-.menu-contact:focus {
-  color: #404bbf;
-}
+
  /* link-contact */
 .contacts {font-style: normal;}
 .link-contact {
