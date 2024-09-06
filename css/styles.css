@@ -102,6 +102,7 @@ button {
 /*----------/Section2--------------------------------------------*/ 
 /*-----------Section3---------------------------------------------*/ 
 .page-section-third{background: #f4f4fd;}
+.foto{background: #ffffff;}
 .text-our-team{font-family: "Roboto", sans-serif;
   font-weight: 700;
   font-size: 36px;
@@ -122,10 +123,8 @@ button {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  
   }
-  .foto{background: #ffffff;}
-/*-----------/Section3--------------------------------------------*/
+  /*-----------/Section3--------------------------------------------*/
 /*------------Section4--------------------------------------------*/
 .text-our-portfolio{font-family: "Roboto", sans-serif;
   font-weight: 700;
