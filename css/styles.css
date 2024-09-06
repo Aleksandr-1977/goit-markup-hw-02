@@ -48,14 +48,14 @@ button {
   color: #404bbf;
 }
  /* link-contact */
+.contacts {font-style: normal;}
 .link-contact {
   font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  font-style: normal;
-  }
+    }
 .link-contact:hover, .link-contact:focus {color: #404bbf;}
 /*-----------/Header--------------------------------------------*/
 /*-----------Main-----------------------------------------------*/
