@@ -32,7 +32,7 @@ button {
 /*----------/Logo------------------------------------------------*/
 /*----------Header---------------------------------------------- */
 .menu {
-  font-family: 'Roboto', sans-serif;
+ 
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -46,8 +46,7 @@ button {
  /* link-contact */
 .contacts {font-style: normal;}
 .link-contact {
-  font-family: "Roboto", sans-serif;
-  font-weight: 400;
+   
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -60,8 +59,7 @@ button {
   background: #2e2f42;
 }
 .main-text {
-  font-family: 'Roboto', sans-serif;
-  font-weight: 700;
+  
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 0.02em;
@@ -69,8 +67,7 @@ button {
   color: #ffffff;
 }
 .button-order-service {
-  font-family: 'Roboto', sans-serif;
-  font-weight: 500;
+   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
@@ -82,14 +79,14 @@ button {
 }
 /*-----------/Section1------------------------------------------*/
 /*------------Section2------------------------------------------*/
-.title-page-section-second{font-family: "Roboto", sans-serif;
+.title-page-section-second{
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;}
-.text-section-second{font-family: "Roboto", sans-serif;
-  font-weight: 400;
+.text-section-second{
+  
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -98,38 +95,38 @@ button {
 /*-----------Section3---------------------------------------------*/ 
 .page-section-third{background: #f4f4fd;}
 .foto{background: #ffffff;}
-.text-our-team{font-family: "Roboto", sans-serif;
-  font-weight: 700;
+.text-our-team{
+  
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
   text-transform: capitalize;
   color: #2e2f42;}
- .title-page-section-third{font-family: "Roboto", sans-serif;
+ .title-page-section-third{
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
    
   color: #2e2f42;} 
-.text-section-third{font-family: "Roboto", sans-serif;
-  font-weight: 400;
+.text-section-third{
+  
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   }
   /*-----------/Section3--------------------------------------------*/
 /*------------Section4--------------------------------------------*/
-.text-our-portfolio{font-family: "Roboto", sans-serif;
-  font-weight: 700;
+.text-our-portfolio{
+  
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
   text-transform: capitalize;
   color: #2e2f42;}
-  .text-title-section-fourth{font-family: "Roboto", sans-serif;
+  .text-title-section-fourth{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -137,8 +134,8 @@ button {
     text-transform: capitalize;
     color: #2e2f42;
    }
-    .text-section-fourth{font-family: "Roboto", sans-serif;
-      font-weight: 400;
+    .text-section-fourth{
+      
       font-size: 16px;
       line-height: 1.5;
       letter-spacing: 0.02em;
@@ -149,7 +146,7 @@ button {
 .page-footer{background: #2e2f42;}
 .logo-footer {
   font-family: "Raleway", sans-serif;
-font-weight: 700;
+
 font-size: 18px;
 line-height: 1.17;
 letter-spacing: 0.03em;
@@ -158,8 +155,8 @@ color: #4d5ae5;
 }
 .text-logo-footer {
   color: #f4f4fd;}
-.text-footer{font-family: "Roboto", sans-serif;
-  font-weight: 400;
+.text-footer{
+  
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
